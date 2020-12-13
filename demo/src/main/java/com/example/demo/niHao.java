@@ -10,4 +10,8 @@ public class niHao {
         System.out.println("taem2 开发了夜嗨 深夜");
     }
 
+    public void update(){
+        System.out.println("team2 开发更新 第二天");
+    }
+
 }
